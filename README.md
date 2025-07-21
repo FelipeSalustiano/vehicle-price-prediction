@@ -46,7 +46,7 @@ MSE: 62.230.090
 Esses resultados mostram que o modelo é eficaz na tarefa de prever o preço dos veículos com boa precisão.
 
 
-###📌 Observações
+## 📌 Observações
 Os dados utilizados foram obtidos do Kaggle e passaram por etapas de limpeza e transformação.
 Link do Kaggle: https://www.kaggle.com/datasets/khwaishsaxena/vehicle-price-prediction-dataset
 
